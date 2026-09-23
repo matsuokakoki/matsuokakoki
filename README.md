@@ -4,6 +4,7 @@ Computer Science undergraduate at Nagoya University, focused on building softwar
 
 ## Selected projects
 
+- [Mean-Field MPC](https://github.com/matsuokakoki/mean-field-mpc) — A Docker-reproducible simulation study of capacity control for bursty serverless workloads, combining Gaussian-process forecasts and queueing models. In a high-volume scenario, EWMA MF-MPC reduced simulated p95 waiting time by 56.7% versus reactive control at a matched resource fraction; this is simulation evidence, not measured Azure latency.
 - [Extreme Hanafuda](https://github.com/matsuokakoki/hanahuda) — A two-player Hanafuda game with a TypeScript rules engine separated from Firebase services. I implemented the game flow and server-side synchronization; the public demo is [here](https://hanahuda-adf91.web.app/).
 - [Hayo](https://github.com/matsuokakoki/hayo) — A four-person iOS/Firebase team project that turns meetup coordination into a location-sharing and photo-mission experience. I led technology selection and contributed to the product idea and UX direction; the team placed fourth in the Tokai qualifier for THE HACK.
 - [Career Form Autofill](https://github.com/matsuokakoki/career-form-autofill) — A Chrome extension that identifies application form fields and lets users review and select suggested values before filling them. I built the field-matching and user-confirmation flow, with optional local or hosted language-model assistance.
